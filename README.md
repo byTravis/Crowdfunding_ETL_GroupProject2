@@ -8,10 +8,10 @@ For our ETL (Extract, Transform, Load) project, our group collaborated to constr
 
 
 ## Group Members
-- Travis Cook(https://github.com/byTravis)
-- Matthew Groh(https://github.com/mdg1317)
-- Marshal Rittenger(https://github.com/Ray-Marshal)
-- Varsha Sharma(https://github.com/Svarsha12)
+- [Travis Cook](https://github.com/byTravis)
+- [Matthew Groh](https://github.com/mdg1317)
+- [Marshal Rittenger](https://github.com/Ray-Marshal)
+- [Varsha Sharma](https://github.com/Svarsha12)
 
 # Files Created For This Project
 - ETL_Mini_Project-MRittenger_MGroh_VSharma_TCook.ipynb
