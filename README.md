@@ -13,9 +13,9 @@ For our ETL (Extract, Transform, Load) project, our group collaborated to constr
 - [Marshal Rittenger](https://github.com/Ray-Marshal)
 - [Varsha Sharma](https://github.com/Svarsha12)
 
-# Files Created For This Project
+# Files In This Project
 - ETL_Mini_Project-MRittenger_MGroh_VSharma_TCook.ipynb
-    - Shared Jupyter Notebook
+    - Shared Jupyter Notebook.
 - Resources\campaign.csv
     - Cleaned dataset with contacts, category, and subcategory split from main data.
 - Resources\category.csv
@@ -26,5 +26,9 @@ For our ETL (Extract, Transform, Load) project, our group collaborated to constr
     - Original contacts dataset
 - Resources\crowdfunding.xlsx
     - Original crowdfunding dataset
+- Resources\crowdfunding_db_schema.sql
+    - PostgreSQL schema for crowdfunding_db
+- Resources\ERD.jpg
+    - Entity-Relationship Diagram
 - Resources\subcategory.csv
     - Cleaned dataset of subcategory ID and subcategory name
